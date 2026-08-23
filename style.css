@@ -1,5 +1,6 @@
 .menu {
   display: flex;
   flex-direction: column;
-  gap: 10vh;
+  align-items: center; /* centre horizontalement les boutons */
+  gap: 20px;
 }
