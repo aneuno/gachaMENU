@@ -1,4 +1,4 @@
 .menu {
   display: flex;
-  column;
+  flex-direction: column;
 }
