@@ -1,1 +1,4 @@
-
+.menu {
+  display: flex;
+  column;
+}
